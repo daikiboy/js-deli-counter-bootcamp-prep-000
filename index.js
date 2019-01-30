@@ -23,7 +23,3 @@ function currentLine(katzDeliLine) {
 }
 
  
-    // now instead of returning inside the for loop add to the string with += operator
-
-      // return the string after the for loop
-
